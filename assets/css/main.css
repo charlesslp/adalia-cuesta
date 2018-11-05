@@ -1,0 +1,32 @@
+body {
+	background-color: #ebc9d7;
+    background-image: url("../img/gatos.png");
+    background-repeat: repeat;
+    background-size: 200px 200px;
+}
+
+.container{
+	background-color: #deebf9;
+
+	height: 500px;
+	margin-top: 100px;
+	margin-right: 92px;
+	margin-left: 92px;
+	border-radius: 20px;
+
+	text-align: center;
+}
+
+.main_image{
+	width: 300px;
+	height: 300px;
+	margin-top: 20px;
+
+	border-radius: 50%;
+}
+
+.title{
+	padding-top: 20px;
+
+	font-family: "Permanent Marker";
+}
