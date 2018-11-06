@@ -8,8 +8,9 @@ body {
 .container{
 	background-color: #deebf9;
 
-	height: 500px;
+	height: 800px;
 	margin-top: 100px;
+	margin-bottom: 100px;
 	margin-right: 92px;
 	margin-left: 92px;
 	border-radius: 20px;
@@ -18,15 +19,20 @@ body {
 }
 
 .main_image{
-	width: 300px;
-	height: 300px;
+	width: 400px;
+	height: 400px;
 	margin-top: 20px;
 
 	border-radius: 50%;
 }
 
 .title{
-	padding-top: 20px;
+	font-family: 'Spicy Rice', cursive;
+	font-size: 60px;
+}
 
-	font-family: "Permanent Marker";
+.message {
+	padding: 5px;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
 }
